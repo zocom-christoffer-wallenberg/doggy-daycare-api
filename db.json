@@ -363,62 +363,6 @@
             "lastName":"Ness",
             "phoneNumber":"0739372238"
          }
-      },
-      {
-         "name":"Atlas",
-         "sex":"male",
-         "breed":"labrador",
-         "img":"https://images.dog.ceo/breeds/labrador/n02099712_2115.jpg",
-         "present":false,
-         "age":8,
-         "chipNumber":"MGI597037",
-         "owner":{
-            "name":"Martin",
-            "lastName":"Hussein",
-            "phoneNumber":"0705655061"
-         }
-      },
-      {
-         "name":"Rex",
-         "sex":"male",
-         "breed":"newfoundland",
-         "img":"https://images.dog.ceo/breeds/newfoundland/n02111277_6229.jpg",
-         "present":true,
-         "age":3,
-         "chipNumber":"HGK26543",
-         "owner":{
-            "name":"Emma",
-            "lastName":"Jonsson",
-            "phoneNumber":"0762173709"
-         }
-      },
-      {
-         "name":"Diesel",
-         "sex":"male",
-         "breed":"rottweiler",
-         "img":"https://images.dog.ceo/breeds/rottweiler/n02106550_1591.jpg",
-         "present":true,
-         "age":1,
-         "chipNumber":"IJD72749",
-         "owner":{
-            "name":"Anna",
-            "lastName":"Doner",
-            "phoneNumber":"0703300040"
-         }
-      },
-      {
-         "name":"Malte",
-         "sex":"male",
-         "breed":"labrador",
-         "img":"https://images.dog.ceo/breeds/labrador/n02099712_2234.jpg",
-         "present":false,
-         "age":16,
-         "chipNumber":"GFI645197",
-         "owner":{
-            "name":"Ezra",
-            "lastName":"Jonsson",
-            "phoneNumber":"0739421403"
-         }
       }
    ]
 }
